@@ -100,3 +100,5 @@ dmypy.json
 .idea
 data/
 nimmy.log
+tmp/
+qr_print.png
